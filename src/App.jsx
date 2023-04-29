@@ -1,9 +1,12 @@
-import Matchweek from "./components/matchweek/matchweek";
+import { Route, Routes } from "react-router-dom";
+import Home from "./pages/home";
 
 function App() {
   return (
     <>
-      <Matchweek />
+      <Routes>
+        <Route path="/" element={<Home />} index />
+      </Routes>
     </>
   );
 }

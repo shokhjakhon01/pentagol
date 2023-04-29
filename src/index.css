@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
@@ -5,3 +6,10 @@
   list-style-type: none;
   text-decoration: none;
 }
+=======
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+>>>>>>> f22edd8b0f700137a8ca251900553414326338e1
