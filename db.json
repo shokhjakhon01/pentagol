@@ -1,0 +1,167 @@
+
+[
+  {
+    "id": 1,
+    "home": "Barselona",
+    "away": "Real Madrid",
+    "category": "La liga",
+    "count": {
+      "homeCount": 2,
+      "awayCount": 2
+    },
+    "icons": {
+      "homeTeam": "https://1000logos.net/wp-content/uploads/2016/10/Barcelona-Logo-500x313.png",
+      "awayTeam": "https://1000logos.net/wp-content/uploads/2019/06/Real-Madrid-Logo.jpg"
+    },
+    "matchTime": "2023-01-06T04:32:09.516Z",
+    "createdAt": "2023-01-06T04:32:09.516Z"
+  },
+  {
+    "id": 2,
+    "home": "Real betis",
+    "away": "Arletiko Madrid",
+    "category": "La liga",
+    "count": {
+      "homeCount": 3,
+      "awayCount": 2
+    },
+    "icons": {
+      "homeTeam": "https://1000logos.net/wp-content/uploads/2022/03/Real-Betis-Logo-tumb-1.png",
+      "awayTeam": "https://1000logos.net/wp-content/uploads/2019/06/Atletico-Madrid-Logo.jpg"
+    },
+    "matchTime": "2023-01-06T04:32:09.516Z",
+    "createdAt": "2023-01-06T04:32:09.516Z"
+  },
+  {
+    "id": 3,
+    "home": "Liverpool",
+    "category": "Primer liga",
+    "away": "Manchester United",
+    "count": {
+      "homeCount": 2,
+      "awayCount": 2
+    },
+    "icons": {
+      "homeTeam": "https://1000logos.net/wp-content/uploads/2017/04/Liverpool-logo-tumb.jpg",
+      "awayTeam": "https://1000logos.net/wp-content/uploads/2019/06/Manchester-United-Logo.jpg"
+    },
+    "matchTime": "2023-01-06T04:32:09.516Z",
+    "createdAt": "2023-01-06T04:32:09.516Z"
+  },
+  {
+    "id": 4,
+    "home": "Chelse",
+    "category": "Primer liga",
+    "away": "arsenal",
+    "count": {
+      "homeCount": 2,
+      "awayCount": 4
+    },
+    "icons": {
+      "homeTeam": "https://1000logos.net/wp-content/uploads/2019/06/Chelsea-Logo.jpg",
+      "awayTeam": "https://1000logos.net/wp-content/uploads/2019/06/Chelsea-Logo.jpg"
+    },
+    "matchTime": "2023-01-06T04:32:09.516Z",
+    "createdAt": "2023-01-06T04:32:09.516Z"
+  },
+  {
+    "id": 5,
+    "home": "Paris",
+    "away": "santto ot",
+    "category": "Ligue 1",
+    "count": {
+      "homeCount": 2,
+      "awayCount": 2
+    },
+    "icons": {
+      "homeTeam": "https://1000logos.net/wp-content/uploads/2019/06/PSG-Logo.jpg",
+      "awayTeam": "https://1000logos.net/wp-content/uploads/2020/09/Rangers-logo-tumb.jpg"
+    },
+    "matchTime": "2023-01-06T04:32:09.516Z",
+    "createdAt": "2023-01-06T04:32:09.516Z"
+  },
+  {
+    "id": 6,
+    "home": "Bavariya",
+    "away": "Barusiya",
+    "category": "Bundesliga",
+    "count": {
+      "homeCount": 0,
+      "awayCount": 2
+    },
+    "icons": {
+      "homeTeam": "https://1000logos.net/wp-content/uploads/2019/06/Bayern-M%C3%BCnchen-Logo.jpg",
+      "awayTeam": "https://1000logos.net/wp-content/uploads/2019/06/BVB-Logo.jpg"
+    },
+    "matchTime": "2023-01-06T04:32:09.516Z",
+
+    "createdAt": "2023-01-06T04:32:09.516Z"
+  },
+  {
+    "id": 7,
+    "home": "Bayer",
+    "away": "Boxum",
+    "category": "Bundesliga",
+    "count": {
+      "homeCount": 0,
+      "awayCount": 0
+    },
+    "icons": {
+      "homeTeam": "https://1000logos.net/wp-content/uploads/2022/03/Bayer-04-Leverkusen-Logo-thumb.png",
+      "awayTeam": "https://1000logos.net/wp-content/uploads/2019/06/AFC-Bournemouth-Logo.jpg"
+    },
+    "matchTime": "2023-01-06T04:32:09.516Z",
+
+    "createdAt": "2023-01-06T04:32:09.516Z"
+  },
+  {
+    "id": 8,
+    "home": "Barselona",
+    "away": "Real Madrid",
+    "count": {
+      "homeCount": 0,
+      "awayCount": 2
+    },
+    "icons": {
+      "homeTeam": "https://1000logos.net/wp-content/uploads/2016/10/Barcelona-Logo-500x313.png",
+      "awayTeam": "https://1000logos.net/wp-content/uploads/2019/06/Real-Madrid-Logo.jpg"
+    },
+    "matchTime": "2023-01-06T04:32:09.516Z",
+
+    "createdAt": "2023-01-06T04:32:09.516Z"
+  },
+  {
+    "id": 9,
+    "home": "Yuventus",
+    "away": "Inter",
+    "category": "A Seria",
+    "count": {
+      "homeCount": 4,
+      "awayCount": 2
+    },
+    "icons": {
+      "homeTeam": "https://1000logos.net/wp-content/uploads/2017/03/Juventus-logo-tumb.jpg",
+      "awayTeam": "https://1000logos.net/wp-content/uploads/2018/07/Internazionale-logo-tumb.jpg"
+    },
+    "matchTime": "2023-01-06T04:32:09.516Z",
+
+
+"createdAt": "2023-01-06T04:32:09.516Z"
+  },
+  {
+    "id": 10,
+    "home": "Aston Villa",
+    "away": "Man City",
+    "category": "Primer liga",
+    "count": {
+      "homeCount": 2,
+      "awayCount": 9
+    },
+    "icons": {
+      "homeTeam": "https://1000logos.net/wp-content/uploads/2022/05/Aston-Villa-Logo-tumb.png",
+      "awayTeam": "https://1000logos.net/wp-content/uploads/2019/06/Manchester-City-Logo.jpg"
+    },
+    "matchTime": "2023-01-06T04:32:09.516Z",
+    "createdAt": "2023-01-06T04:32:09.516Z"
+  }
+]
