@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Italiya. Seriya A",
+    "image": "https://www.soccerstand.com/res/image/data/Uu776GVI-KdMuaNot.png"
+  },
+  {
+    "id": 2,
+    "name": "Premier Liga",
+    "image": "https://w7.pngwing.com/pngs/157/277/png-transparent-lion-king-illustration-2016u201317-premier-league-1999u20132000-fa-premier-league-2017u201318-premier-league-english-football-league-chelsea-f-c-premier-league-file-purple-violet-logo-thumbnail.png"
+  },
+  {
+    "id": 4,
+    "name": "LaLiga",
+    "image": "https://assets.laliga.com/assets/public/logospage/laliga-v-16-9.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bundesliga",
+    "image": "https://1000logos.net/wp-content/uploads/2021/06/German-Bundesliga-logo-500x281.png"
+  },
+  {
+    "id": 6,
+    "name": "Ligue 1",
+    "image": "https://ww1.freelogovectors.net/wp-content/uploads/2020/08/ligue1logo.png?lossy=1&resize=400%2C400&ssl=1"
+  }
+]
